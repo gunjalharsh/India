@@ -1,0 +1,42 @@
+#div1 {
+
+padding-top: 5px;
+
+
+}
+
+#footertext {
+    position: absolute;
+    top: 107%;
+    left: 40%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-image: linear-gradient(to right, blue,greenyellow);;
+    border-radius: 50px;
+    font-family: cursive;
+    font-weight: bolder;
+    color: whitesmoke;
+
+}
+
+#title{
+
+    position: fixed;
+    top: 2px;
+    left: 35%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-image: linear-gradient(to right, red , yellow);
+    font-size: 20px;
+    border-radius: 50px;
+    color: whitesmoke;
+
+}
+
+
+
+
